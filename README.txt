@@ -1,0 +1,1 @@
+Dataset available on Kaggle: https://www.kaggle.com/techsash/waste-classification-data
